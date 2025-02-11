@@ -1,0 +1,13 @@
+typedef struct _no_ No;
+
+No *criarListaVazia();
+No *insereInicio(No *no, int elem);
+No *novaListaElementosPares(No *no);
+No *valoresAleatorios(No *no);
+No *removerValor(No *no, int elem);
+No *removerMaiorElemento(No *no);
+int *criarVetor(No *no);
+int listaVazia(No *no);
+int tamanhoLista(No *no);
+void percorrerLista(No *no);
+void exibirMaiorElemento(No *no);

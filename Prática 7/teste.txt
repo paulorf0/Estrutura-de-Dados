@@ -1,0 +1,4 @@
+testando a funcao
+criada anteriormente
+para ver se ela está capturando corretamente
+cada palavra palvra awnd palavra palavra aa palavra
